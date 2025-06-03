@@ -3,6 +3,10 @@
   🔎 Quality Assurance | Test Automation | Software Engineer in Test
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/wEo2xEIbG98AAAAC/programming-software-testing.gif" alt="Software Testing Automation" width="400"/>
+</p>
+
 ---
 
 ## 🧠 Sobre Mim
